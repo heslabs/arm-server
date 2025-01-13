@@ -4,17 +4,17 @@
 ## AWS Graviton Processor - Amazon EC2
 https://aws.amazon.com/ec2/graviton/
 
-| AWS Graviton | Arm Neoverse | Memory | Process |
-| :- | :- | :- | :- |
-| AWS Graviton4 | Arm Neoverse V2 cores (96-core) | DDR5-5600 | TSMC N4 |
-| AWS Graviton3 | Arm Neoverse V1 cores | DDR4 |TSMC |
-| AWS Graviton2 | Arm Neoverse N1 cores | DDR4 |TSMC |
+| AWS Graviton | Arm Neoverse | Architecture | Memory | Process |
+| :- | :- | :- | :- | :- |
+| AWS Graviton4 | Arm Neoverse V2 cores (96-core) | Armv9 | DDR5-5600 | TSMC N4 |
+| AWS Graviton3 | Arm Neoverse V1 cores (64-core) | Armv9 | DDR5 |TSMC N5 |
+| AWS Graviton2 | Arm Neoverse N1 cores  (64-core) | Armv8 | DDR4 |TSMC N7 |
 
 
 ---
 ### AWS Graviton4
 
-Performance gains with AWS Graviton4 – a DevitoPRO case study (2024.10)
+Performance gains with AWS Graviton4 – a DevitoPRO case study (2024.10) \
 https://aws.amazon.com/blogs/hpc/performance-gains-with-aws-graviton4-a-devitopro-case-study/
 
 * The AWS Graviton4 processor represents a significant leap forward, with **96 Neoverse V2 cores** and an enhanced memory subsystem.
@@ -45,6 +45,10 @@ https://www.arm.com/partners/aws
 * The AWS Graviton3 and AWS Graviton3E processors use the Arm Neoverse V1 core.
 * And the AWS Graviton2 processor uses **Arm Neoverse N1 cores** to deliver its computational horsepower.
 
+--## AWS Graviton3 CPU with 64 Cores and DDR5 Memory Available with Three Sockets Per Motherboard
+https://www.techpowerup.com/295203/aws-graviton3-cpu-with-64-cores-and-ddr5-memory-available-with-three-sockets-per-motherboard
+
+* Graviton3's 64 cores run at 2.6 GHz clock speed, 300 GB/sec maximum memory bandwidth, DDR5 memory controller
 
 ---
 ### Best-in-class LLM performance on Arm Neoverse V1 based AWS Graviton3 CPUs
