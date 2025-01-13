@@ -11,6 +11,17 @@ https://www.arm.com/products/silicon-ip-cpu/neoverse
 | Arm Neoverse V1 | Arm®v8.4-A | Arm Neoverse N1 | Arm®v8.2-A | Arm Neoverse E1 |  Arm®v8.2-A |
 
 ---
+
+| Core | Architecture |
+| :- | :- |
+| AWS Graviton4 | Armv9 |
+| AWS Graviton3 | Armv9 |
+| AWS Graviton2 | Armv8 |
+| Ampere AmpereOne | Armv8.6+ |
+| Ampere Altra  | Armv8.2+ |
+
+ 
+---
 <img src="https://github.com/user-attachments/assets/b34ff6a2-5bcf-4ad3-9f9a-249fa0215973" width=750>
 
 ---
