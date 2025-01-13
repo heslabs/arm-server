@@ -4,6 +4,13 @@
 ## AWS Graviton Processor - Amazon EC2
 https://aws.amazon.com/ec2/graviton/
 
+| AWS Graviton | Arm Neoverse | Memory | Process |
+| :- | :- | :- |
+| AWS Graviton4 | Arm Neoverse V2 cores (96-core) | DDR5-5600 | TSMC N4 |
+| AWS Graviton3 | Arm Neoverse V1 cores | DDR4 |TSMC |
+| AWS Graviton2 | Arm Neoverse N1 cores | DDR4 |TSMC |
+
+
 ---
 ### AWS Graviton4
 
@@ -25,6 +32,18 @@ https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-
 ---
 #### Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth (anandtech.com) 
 https://news.ycombinator.com/item?id=38465736
+
+
+---
+## AWS Graviton3
+
+https://www.arm.com/partners/aws
+
+* AWS Graviton and Arm Neoverse Enable the Best Price-performance in Amazon EC2
+* Based on **Arm Neoverse V1**, the AWS Graviton3 processor provides up 25% better compute performance, 2x faster cryptographic performance, and up to 3x better performance for ML workloads compared to AWS Graviton2.
+* Arm and AWS have partnered to enable the best price performance and CPU silicon innovation in the Amazon cloud.
+* The AWS Graviton3 and AWS Graviton3E processors use the Arm Neoverse V1 core.
+* And the AWS Graviton2 processor uses **Arm Neoverse N1 cores** to deliver its computational horsepower.
 
 ---
 ## Amazon EC2 M8g Instances
