@@ -34,6 +34,11 @@ https://developer.arm.com/documentation/102099/0003/The-Neoverse-N2--core?lang=e
 * The Neoverse™ N2 core implements the **Arm®v9.0-A** architecture
 
 ---
+## Blog
+* Neoverse Compute Subsystems, the Fastest Path to Production Silicon
+   * https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/neoverse-compute-subsystems-css-the-fastest-path-to-production-silicon
+
+---
 ## Arm Learning Path
 
 ---
