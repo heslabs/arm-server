@@ -4,6 +4,12 @@
 ## Arm Neoverse
 https://www.arm.com/products/silicon-ip-cpu/neoverse
 
+| Arm Neoverse V  | | Arm Neoverse N | | Arm Neoverse E | |
+| :- | :- | :- | :- | :- | :- |
+| Arm Neoverse V3 | Arm®v9.2-A | Arm Neoverse N3 | Arm®v9.2-A | | |
+| Arm Neoverse V2 | Arm®v9.0-A | Arm Neoverse N2 | Arm®v9.0-A | | |
+| Arm Neoverse V1 | Arm®v8.4-A | Arm Neoverse N1 | Arm®v8.2-A | Arm Neoverse E1 |  Arm®v8.2-A |
+
 ---
 <img src="https://github.com/user-attachments/assets/b34ff6a2-5bcf-4ad3-9f9a-249fa0215973" width=750>
 
