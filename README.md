@@ -4,7 +4,7 @@
 ## Arm Neoverse
 https://www.arm.com/products/silicon-ip-cpu/neoverse
 
-| Arm Neoverse V  | | Arm Neoverse N | | Arm Neoverse E | |
+| Arm Neoverse V  | Arch | Arm Neoverse N | Arch | Arm Neoverse E | Arch |
 | :- | :- | :- | :- | :- | :- |
 | Arm Neoverse V3 | Arm®v9.2-A | Arm Neoverse N3 | Arm®v9.2-A | | |
 | Arm Neoverse V2 | Arm®v9.0-A | Arm Neoverse N2 | Arm®v9.0-A | | |
@@ -12,13 +12,13 @@ https://www.arm.com/products/silicon-ip-cpu/neoverse
 
 ---
 
-| Core | Architecture |
-| :- | :- |
-| AWS Graviton4 | Armv9 |
-| AWS Graviton3 | Armv9 |
-| AWS Graviton2 | Armv8 |
-| Ampere AmpereOne | Armv8.6+ |
-| Ampere Altra  | Armv8.2+ |
+| AWS Gravito | Arch | Ampere | Arch |
+| :- | :- | :- | :- |
+| AWS Graviton4 | Armv9 | Ampere AmpereOne | Armv8.6+ |
+| AWS Graviton3 | Armv9 | Ampere Altra  | Armv8.2+ |
+| AWS Graviton2 | Armv8 | | |
+ 
+ 
 
  
 ---
