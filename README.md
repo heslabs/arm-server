@@ -4,7 +4,7 @@
 ## Arm Neoverse
 https://www.arm.com/products/silicon-ip-cpu/neoverse
 
-<img src="https://github.com/user-attachments/assets/b34ff6a2-5bcf-4ad3-9f9a-249fa0215973" width=800>
+<img src="https://github.com/user-attachments/assets/b34ff6a2-5bcf-4ad3-9f9a-249fa0215973" width=750>
 
 
 ---
