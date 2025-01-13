@@ -11,7 +11,8 @@ https://www.arm.com/products/silicon-ip-cpu/neoverse
 ### Arm® Neoverse™ V3 Core Technical Reference Manual
 https://developer.arm.com/documentation/107734/0002/The-Neoverse--V3--core?lang=en
 
-* The Neoverse™ V3 core is a high-performance and low-power product that implements the **Arm®v9.2-A** architecture. The Arm®v9.2-A architecture extends the architecture defined in the Arm®v8‑A architectures up to Arm®v8.7‑A.
+* The Neoverse™ V3 core is a high-performance and low-power product that implements the **Arm®v9.2-A** architecture.
+* The Arm®v9.2-A architecture extends the architecture defined in the Arm®v8‑A architectures up to Arm®v8.7‑A.
 
 ---
 ### Arm® Neoverse™ V2 Core Technical Reference Manual
@@ -23,7 +24,8 @@ https://developer.arm.com/documentation/102375/0002?lang=en
 ### Arm® Neoverse™ N3 Core Technical Reference Manual
 https://developer.arm.com/documentation/107997/0000/The-Neoverse--N3--core?lang=en
 
-* The Neoverse™ N3 core is a balanced-performance, low-power, and constrained area product that implements the **Arm®v9.2-A** architecture. The Arm®v9.2-A architecture extends the architecture defined in the Arm®v8‑A architectures up to Arm®v8.7‑A.
+* The Neoverse™ N3 core is a balanced-performance, low-power, and constrained area product that implements the **Arm®v9.2-A** architecture.
+* The Arm®v9.2-A architecture extends the architecture defined in the Arm®v8‑A architectures up to Arm®v8.7‑A.
 
 ---
 ### Arm® Neoverse™ N2 Core Technical Reference Manual
