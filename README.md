@@ -14,7 +14,7 @@ https://www.arm.com/products/silicon-ip-cpu/neoverse
 
 | AWS Gravito | Arch | Ampere | Arch | Marvell | Arch | 
 |:-|:-|:-|:-|:-|:-|
-| AWS Graviton4 | Neoverse V2 (Armv9) | Ampere AmpereOne | Armv8.6+ | OCTEON 10 DPU | Neoverse N2 (Arm®v9.0-A) |
+| AWS Graviton4 | Neoverse V2 (Armv9) | Ampere AmpereOne | Armv8.6+ | OCTEON 10 DPU | Neoverse N2 (Armv9.0-A) |
 | AWS Graviton3 | Neoverse V1 (Armv9) | Ampere Altra  | Armv8.2+ | | |
 | AWS Graviton2 | Neoverse N1 (Armv8) | | | | |
  
