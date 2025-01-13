@@ -2,11 +2,11 @@
 
 
 ---
-### AWS Graviton Processor - Amazon EC2
+## AWS Graviton Processor - Amazon EC2
 https://aws.amazon.com/ec2/graviton/
 
 ---
-### Amazon EC2 M8g Instances
+## Amazon EC2 M8g Instances
 
 https://aws.amazon.com/ec2/instance-types/m8g/
 
