@@ -34,15 +34,37 @@ https://amperecomputing.com/briefs/ampere-altra-family-product-brief
 ---
 #### Features Specific to Core Count
 
-<img src="https://github.com/user-attachments/assets/8e9f7cd1-f934-4afe-9682-638f13e78534" width=800>
+<img src="https://github.com/user-attachments/assets/8e9f7cd1-f934-4afe-9682-638f13e78534" width=900>
 
 ---
 ## Ampere AmpereOne
 
 https://amperecomputing.com/briefs/ampereone-family-product-brief
 
-* Up to 192 Cores
-* 2MB Private L2 Cache per Core
-* 8 channel DDR5
-* 128 lanes PCIe Gen5
-* 200 to 400W
+* Cloud Native Features
+   * Single Threaded Cores
+   * Consistent Freq up to 3.7 GHz​
+   * 2x128b Vector Units: FP16, Bfloat16, Int8 and Int16
+* Scalable Management
+   * Fine Grained Power Mgmt
+   * Advanced Droop Detection
+   * Process Aging Monitors
+* Security
+   * Secure Virtualization
+   * Single-Key Memory Encryption
+   * Memory Tagging
+* Performance Consistency
+   * Mesh Congestion Mgmt
+   * Memory/SLC QoS Enforcement
+   * Nested Virtualization
+* Other Specifications
+   * Instruction Set Compatibility: Armv8.6+, SBSA 5
+   * Independent System and Power Controllers (SECpro and Mpro)
+   * PCBA System Support: I2C, GPIO, QSPI and GPI Interrupt Support, System and Watchdog Timer Support
+   * Operating Temperature Range: 5°C ambient to +105°C TJ
+   * Process: TSMC 5 nm
+   * Socket Compatible Packages: 5964-Pin FCLGA
+
+---
+#### Features Specific to Core Count
+<img src="https://github.com/user-attachments/assets/90c08394-7086-496f-a5da-cc3f4b4648ad" width=1000>
