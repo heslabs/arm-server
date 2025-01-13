@@ -30,7 +30,7 @@ https://www.anandtech.com/show/21172/amazon-unveils-graviton4-a-96core-cpu-with-
 * Furthermore, the new CPU is expected to be fabricated using one of **TSMC's N4 process** technologies (4nm-class), which offers a higher clock-speed potential than TSMC's N5 nodes.
 
 ---
-#### Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth (anandtech.com) 
+### Amazon Unveils Graviton4: A 96-Core ARM CPU with 536.7 GBps Memory Bandwidth (anandtech.com) 
 https://news.ycombinator.com/item?id=38465736
 
 
@@ -54,7 +54,7 @@ https://www.techpowerup.com/295203/aws-graviton3-cpu-with-64-cores-and-ddr5-memo
 ### Best-in-class LLM performance on Arm Neoverse V1 based AWS Graviton3 CPUs
 https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/best-in-class-llm-performance
 
-#### Performance comparisons
+### Performance comparisons
 We also compared the performance of the LLaMa-3 8B int4 quantized model on AWS Graviton3 vs. other latest-generation server CPUs on AWS.
 
 * AWS Graviton3: c7g.16xlarge, 64 VCPUs, 512 GB memory, $2.31/hr
