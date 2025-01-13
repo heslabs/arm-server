@@ -5,7 +5,7 @@
 https://aws.amazon.com/ec2/graviton/
 
 | AWS Graviton | Arm Neoverse | Memory | Process |
-| :- | :- | :- |
+| :- | :- | :- | :- |
 | AWS Graviton4 | Arm Neoverse V2 cores (96-core) | DDR5-5600 | TSMC N4 |
 | AWS Graviton3 | Arm Neoverse V1 cores | DDR4 |TSMC |
 | AWS Graviton2 | Arm Neoverse N1 cores | DDR4 |TSMC |
@@ -44,6 +44,19 @@ https://www.arm.com/partners/aws
 * Arm and AWS have partnered to enable the best price performance and CPU silicon innovation in the Amazon cloud.
 * The AWS Graviton3 and AWS Graviton3E processors use the Arm Neoverse V1 core.
 * And the AWS Graviton2 processor uses **Arm Neoverse N1 cores** to deliver its computational horsepower.
+
+
+---
+### Best-in-class LLM performance on Arm Neoverse V1 based AWS Graviton3 CPUs
+https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/best-in-class-llm-performance
+
+#### Performance comparisons
+We also compared the performance of the LLaMa-3 8B int4 quantized model on AWS Graviton3 vs. other latest-generation server CPUs on AWS.
+
+* AWS Graviton3: c7g.16xlarge, 64 VCPUs, 512 GB memory, $2.31/hr
+* 4th Gen Intel Xeon: c7i.16xlarge, 64 VCPUs, 512 GB memory, $2.86/hr
+* 4th Gen AMD EPYC: c7a.16xlarge, 64 VCPUs (SMT-off), 512 GB memory, $3.28/hr
+
 
 ---
 ## Amazon EC2 M8g Instances
