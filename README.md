@@ -12,7 +12,11 @@
     * https://learn.arm.com/learning-paths/cross-platform/simd-on-rust/
 * Migrating applications to Arm servers
     * https://learn.arm.com/learning-paths/servers-and-cloud-computing/migration/
-      
+* Run memcached on Arm servers and measure its performance
+    * https://learn.arm.com/learning-paths/servers-and-cloud-computing/memcached/
+* Get started with Geekbench on Arm
+    * https://learn.arm.com/learning-paths/servers-and-cloud-computing/geekbench/
+
 ---
 ### LLM
 
@@ -26,7 +30,9 @@
     * https://learn.arm.com/learning-paths/cross-platform/kleidiai-explainer/
 * Learn about LLVM Machine Code Analyzer
     * https://learn.arm.com/learning-paths/cross-platform/mca-godbolt/
-
+* Accelerate Natural Language Processing (NLP) models from Hugging Face on Arm servers
+    * https://learn.arm.com/learning-paths/servers-and-cloud-computing/benchmark-nlp/
+      
 ---
 ### Vision AI
 
@@ -34,16 +40,8 @@
     * https://learn.arm.com/learning-paths/servers-and-cloud-computing/csp/
 * Create and train a PyTorch model for digit classification using the MNIST dataset
     * https://learn.arm.com/learning-paths/cross-platform/pytorch-digit-classification-arch-training/
-
-
-* Run memcached on Arm servers and measure its performance
-    * https://learn.arm.com/learning-paths/servers-and-cloud-computing/memcached/
-* Accelerate Natural Language Processing (NLP) models from Hugging Face on Arm servers
-    * https://learn.arm.com/learning-paths/servers-and-cloud-computing/benchmark-nlp/
 * Run x265 (H.265 codec) on Arm servers
     * https://learn.arm.com/learning-paths/servers-and-cloud-computing/codec/
-* Get started with Geekbench on Arm
-    * https://learn.arm.com/learning-paths/servers-and-cloud-computing/geekbench/
 
 
 
