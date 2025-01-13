@@ -4,12 +4,13 @@
 ## AWS Graviton Processor - Amazon EC2
 https://aws.amazon.com/ec2/graviton/
 
-| AWS Graviton | Arm Neoverse | Architecture | Memory | Process |
-| :- | :- | :- | :- | :- |
-| AWS Graviton4 | Arm Neoverse V2 cores (96-core) | Armv9 | DDR5-5600 | TSMC N4 |
-| AWS Graviton3 | Arm Neoverse V1 cores (64-core) | Armv9 | DDR5 |TSMC N5 |
-| AWS Graviton2 | Arm Neoverse N1 cores  (64-core) | Armv8 | DDR4 |TSMC N7 |
+| AWS Graviton | Arm Neoverse | Architecture | Memory | Process | Amazon Instances |
+| :- | :- | :- | :- | :- | :- |
+| AWS Graviton4 | Arm Neoverse V2 cores (96-core) | Armv9 | DDR5-5600 | TSMC N4 | Amazon EC2 M8g |
+| AWS Graviton3 | Arm Neoverse V1 cores (64-core) | Armv9 | DDR5 |TSMC N5 | Amazon EC2 M7g |
+| AWS Graviton2 | Arm Neoverse N1 cores  (64-core) | Armv8 | DDR4 |TSMC N7 | Amazon EC2 M6g |
 
+ 
 
 ---
 ### AWS Graviton4
