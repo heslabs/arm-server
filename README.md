@@ -4,7 +4,14 @@
 ## Arm Neoverse
 https://www.arm.com/products/silicon-ip-cpu/neoverse
 
+---
 <img src="https://github.com/user-attachments/assets/b34ff6a2-5bcf-4ad3-9f9a-249fa0215973" width=750>
+
+---
+<img src="https://github.com/user-attachments/assets/a75ad4a2-84bb-4923-9d04-2314c9f4580d" width=750>
+
+---
+<img src="https://github.com/user-attachments/assets/b25ba3bb-b8ed-49d8-b708-a2b43328521f" width=950>
 
 
 ---
@@ -21,6 +28,17 @@ https://developer.arm.com/documentation/102375/0002?lang=en
 * The Neoverse™ V2 core implements the **Arm®v9.0-A** architecture and supports all previous Armv8-A architectures up to Arm®v8.5-A .
 
 ---
+### Arm® Neoverse™ V1 Core Technical Reference Manual
+https://developer.arm.com/documentation/101427/0102/Functional-description/Introduction/About-the-core?lang=en
+
+* The Arm®v8.4-A extension.
+* The Reliability, Availability, and, Serviceability (RAS) extension
+* The Statistical Profiling Extension (SPE).
+* The Scalable Vector Extension (SVE) with a 256-bit vector length.
+* The Arm®v8.4-A Memory Partitioning And Monitoring (MPAM) extension.
+* The traps for EL0 and EL1 cache controls, PSTATE Speculative Store Bypass Safe (SSBS) bit, and the speculation barriers (CSDB, SSBB, PSSBB) instructions introduced in the Arm®v8.5‑A extension.
+
+---
 ### Arm® Neoverse™ N3 Core Technical Reference Manual
 https://developer.arm.com/documentation/107997/0000/The-Neoverse--N3--core?lang=en
 
@@ -33,6 +51,30 @@ https://developer.arm.com/documentation/102099/0003/The-Neoverse-N2--core?lang=e
 
 * The Neoverse™ N2 core implements the **Arm®v9.0-A** architecture
 
+---
+### Arm® Neoverse™ N1 Core Technical Reference Manual
+
+https://developer.arm.com/documentation/100616/0401/Introduction-to-the-Neoverse-N1-core/About-the-core?lang=en
+
+* The Arm®v8.2-A extension.
+* The RAS extension.
+* The Statistical Profiling extension.
+* The Load acquire (LDAPR) instructions introduced in the Arm®v8.3-A extension
+* The Dot Product support instructions introduced in the Arm®v8.4-A extension.
+* The traps for EL1 and EL0 cache controls, PSTATE SSBS (Speculative Store Bypass Safe) bit that supports software mitigation for Spectre Variant 4, and the speculation barriers (CSDB, SSBB, PSSBB) instructions introduced in the Arm®v8.5‑A extension.
+
+---
+### Arm® Neoverse™ E1 Core Technical Reference Manual
+
+https://developer.arm.com/documentation/101560/0102/Introduction-to-the-Neoverse-E1-core/About-the-core?lang=en
+
+* The Arm®v8.2-A extension.
+* The Reliability, Availability, and Serviceability (RAS) extension
+* The Load acquire (LDAPR) instructions introduced in the Arm®v8.3-A extension
+* The Dot Product support instructions introduced in the Arm®v8.4-A extension.
+* The PSTATE Speculative Store Bypass Safe (SSBS) bit that supports software mitigation for Spectre Variant 4 introduced in the Arm®v8.5‑A extensi
+
+  
 ---
 ## Blog
 * Neoverse Compute Subsystems, the Fastest Path to Production Silicon
