@@ -19,16 +19,16 @@ https://amperecomputing.com/briefs/ampere-altra-family-product-brief
     * Enterprise RAS: SECDED ECC protected memory throughout
     * Coherent Mesh Interconnect with distributed snoop filtering
 * Memory
-    * 8 Channels 72-bit DDR4-3200 with ECC
+    * **8 Channels 72-bit DDR4-3200** with ECC
     * Up to 16 DIMMs (2DPC) and 4 TB total memory
 * Connectivity
-    * 128 Lanes PCIe Gen4 (optional 64 lane CCIX for multi-socket support)
+    * 128 Lanes PCIe Gen4 (optional **64 lane CCIX** for multi-socket support)
 * Other Specifications
-    * Instruction Set Compatibility: Armv8.2+, SBSA 4
+    * Instruction Set Compatibility: **Armv8.2+**, SBSA 4
     * Independent System and Power Controllers (SMpro and PMpro)
     * PCBA System Support: I2C, GPIO, QSPI and GPI Interrupt Support, System and Watchdog Timer Support
     * Operating Junction Temperature Range: 0°C to 90°C
-    * Process: TSMC 7 nm FinFET
+    * Process: **TSMC 7 nm FinFET**
     * Socket Compatible Packages: 4926-Pin FCLGA
 
 ---
@@ -44,7 +44,9 @@ https://amperecomputing.com/briefs/ampereone-family-product-brief
 * Cloud Native Features
    * Single Threaded Cores
    * Consistent Freq up to 3.7 GHz​
-   * 2x128b Vector Units: FP16, Bfloat16, Int8 and Int16
+   * **2x128b Vector Units**: FP16, Bfloat16, Int8 and Int16
+* Memory
+   * 8 Channel DDR5 with ECC Up to 16 DIMMs (2DPC) and 4 TB per socket for a total of 8 TB on a two socket system
 * Scalable Management
    * Fine Grained Power Mgmt
    * Advanced Droop Detection
@@ -58,11 +60,11 @@ https://amperecomputing.com/briefs/ampereone-family-product-brief
    * Memory/SLC QoS Enforcement
    * Nested Virtualization
 * Other Specifications
-   * Instruction Set Compatibility: Armv8.6+, SBSA 5
+   * Instruction Set Compatibility: **Armv8.6+**, SBSA 5
    * Independent System and Power Controllers (SECpro and Mpro)
    * PCBA System Support: I2C, GPIO, QSPI and GPI Interrupt Support, System and Watchdog Timer Support
    * Operating Temperature Range: 5°C ambient to +105°C TJ
-   * Process: TSMC 5 nm
+   * Process: **TSMC 5 nm**
    * Socket Compatible Packages: 5964-Pin FCLGA
 
 ---
