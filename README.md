@@ -1,4 +1,4 @@
-# Ampere Server
+# Arm Server
 
 
 ---
