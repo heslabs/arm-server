@@ -33,7 +33,7 @@ https://amperecomputing.com/briefs/ampere-altra-family-product-brief
 ---
 #### Features Specific to Core Count
 
-<img src="https://github.com/user-attachments/assets/8e9f7cd1-f934-4afe-9682-638f13e78534" width=900>
+<img src="https://github.com/user-attachments/assets/8e9f7cd1-f934-4afe-9682-638f13e78534" width=850>
 
 ---
 ## Ampere AmpereOne
@@ -70,4 +70,4 @@ https://amperecomputing.com/briefs/ampereone-family-product-brief
 
 ---
 #### Features Specific to Core Count
-<img src="https://github.com/user-attachments/assets/90c08394-7086-496f-a5da-cc3f4b4648ad" width=1000>
+<img src="https://github.com/user-attachments/assets/90c08394-7086-496f-a5da-cc3f4b4648ad" width=950>
