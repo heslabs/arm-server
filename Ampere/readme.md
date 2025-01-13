@@ -11,7 +11,7 @@ https://amperecomputing.com/briefs/ampere-altra-family-product-brief
 * Cloud Native Features
     * Single Threaded Cores
     * Consistent Frequency up to 3.0 GHz
-    * 2x128b Vector Units, FP16, Int16, Int8
+    * **2x128b Vector Units**, FP16, Int16, Int8
     * Advanced Power Management, Dynamic Estimation, Voltage droop detection
 * System Features
     * Interrupt Virtualization (GICv3)
@@ -46,7 +46,7 @@ https://amperecomputing.com/briefs/ampereone-family-product-brief
    * Consistent Freq up to 3.7 GHz​
    * **2x128b Vector Units**: FP16, Bfloat16, Int8 and Int16
 * Memory
-   * 8 Channel DDR5 with ECC Up to 16 DIMMs (2DPC) and 4 TB per socket for a total of 8 TB on a two socket system
+   * **8 Channel DDR5** with ECC Up to 16 DIMMs (2DPC) and 4 TB per socket for a total of 8 TB on a two socket system
 * Scalable Management
    * Fine Grained Power Mgmt
    * Advanced Droop Detection
