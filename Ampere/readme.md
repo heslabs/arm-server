@@ -71,3 +71,19 @@ https://amperecomputing.com/briefs/ampereone-family-product-brief
 ---
 #### Features Specific to Core Count
 <img src="https://github.com/user-attachments/assets/90c08394-7086-496f-a5da-cc3f4b4648ad" width=950>
+
+
+--- 
+## Reference
+
+---
+### richliu's blog
+
+* richliu's blog
+https://blog.richliu.com/category/computer/hardware/arm-hardware-computer/page/2/#google_vignette
+
+---
+### Blog
+
+AI - Ampere Altra Family Vs. Graviton
+* https://amperecomputing.com/briefs/ai-altra-vs-graviton
