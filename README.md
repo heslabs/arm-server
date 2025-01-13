@@ -12,11 +12,11 @@ https://www.arm.com/products/silicon-ip-cpu/neoverse
 
 ---
 
-| AWS Gravito | Arch | TSMC | Ampere | Arch | TSMC | Marvell | Arch | TSMC |
-|:-             |:-                   |:-  |:-                |:-         |:-  |:-             |:-                       |:-|
+| AWS Gravito | Arch | | Ampere | Arch | | Marvell | Arch | |
+|:-             |:-                   |:-  |:-                |:-         |:-  |:-             |:-                       |:-  |
 | AWS Graviton4 | Neoverse V2 (Armv9) | N4 | Ampere AmpereOne | Armv8.6+  | N5 | OCTEON 10 DPU | Neoverse N2 (Armv9.0-A) | N5 |
-| AWS Graviton3 | Neoverse V1 (Armv9) | N5 | Ampere Altra     | Armv8.2+  | N7 |               |                         |  |
-| AWS Graviton2 | Neoverse N1 (Armv8) | N7 |                  |           |    |               |                         |  |
+| AWS Graviton3 | Neoverse V1 (Armv9) | N5 | Ampere Altra     | Armv8.2+  | N7 |               |                         |    |
+| AWS Graviton2 | Neoverse N1 (Armv8) | N7 |                  |           |    |               |                         |    |
  
  
 
