@@ -92,7 +92,8 @@ https://developer.arm.com/documentation/101560/0102/Introduction-to-the-Neoverse
 ### Neoverse CMN-700
 https://developer.arm.com/Processors/Neoverse%20CMN-700
 
-* The Arm Neoverse CMN-700 Coherent Mesh Network is a high bandwidth, low-latency system interconnect that supports a wide range of applications. The application supported includes networking infrastructure, storage, server, HPC, automotive, and industrial solutions.
+* The Arm Neoverse CMN-700 Coherent Mesh Network is a high bandwidth, low-latency system interconnect that supports a wide range of applications.
+* The application supported includes networking infrastructure, storage, server, HPC, automotive, and industrial solutions.
 * The highly scalable mesh is optimized for Armv8.2 to Armv9.0 CPUs and can be customized across a wide range of performance, power, and area requirements.
 
 #### Resource 
