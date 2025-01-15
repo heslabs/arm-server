@@ -91,6 +91,17 @@ https://developer.arm.com/documentation/101560/0102/Introduction-to-the-Neoverse
 * The Dot Product support instructions introduced in the Arm®v8.4-A extension.
 * The PSTATE Speculative Store Bypass Safe (SSBS) bit that supports software mitigation for Spectre Variant 4 introduced in the Arm®v8.5‑A extensi
 
+---
+### Neoverse CMN-700
+https://developer.arm.com/Processors/Neoverse%20CMN-700
+
+* The Arm Neoverse CMN-700 Coherent Mesh Network is a high bandwidth, low-latency system interconnect that supports a wide range of applications. The application supported includes networking infrastructure, storage, server, HPC, automotive, and industrial solutions.
+* The highly scalable mesh is optimized for Armv8.2 to Armv9.0 CPUs and can be customized across a wide range of performance, power, and area requirements.
+
+#### Resource 
+* Arm Neoverse CMN-700 Technical Reference Manual Addendum
+  * https://developer.arm.com/documentation/108055/0301/?lang=en
+
   
 ---
 ## Blog
