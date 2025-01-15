@@ -1,7 +1,7 @@
 # Arm Server
 
 ---
-## Arm Neoverse
+## Arm Neoverse IP
 https://www.arm.com/products/silicon-ip-cpu/neoverse
 
 | Neoverse V  | Arch | Neoverse N | Arch | Neoverse E | Arch |
@@ -11,6 +11,10 @@ https://www.arm.com/products/silicon-ip-cpu/neoverse
 | Neoverse V1 | Arm®v8.4-A | Neoverse N1 | Arm®v8.2-A | Neoverse E1 |  Arm®v8.2-A |
 
 ---
+<img src="https://github.com/user-attachments/assets/b34ff6a2-5bcf-4ad3-9f9a-249fa0215973" width=750>
+
+---
+## Arm Neoverse based Server
 
 | AWS Gravito | | | Ampere | | | Marvell | | |
 |:-             |:-                   |:-  |:-                |:-         |:-  |:-             |:-                       |:-  |
@@ -18,16 +22,13 @@ https://www.arm.com/products/silicon-ip-cpu/neoverse
 | AWS Graviton3 | Neoverse V1 (Armv9) | N5 | Ampere Altra     | Armv8.2+  | N7 |               |                         |    |
 | AWS Graviton2 | Neoverse N1 (Armv8) | N7 |                  |           |    |               |                         |    |
  
- 
-
- 
----
-<img src="https://github.com/user-attachments/assets/b34ff6a2-5bcf-4ad3-9f9a-249fa0215973" width=750>
-
 ---
 <img src="https://github.com/user-attachments/assets/b25ba3bb-b8ed-49d8-b708-a2b43328521f" width=950>
 
 
+---
+##  Neoverse Technical Reference Manual (TRM)
+ 
 ---
 ### Arm® Neoverse™ V3 Core Technical Reference Manual
 https://developer.arm.com/documentation/107734/0002/The-Neoverse--V3--core?lang=en
