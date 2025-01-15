@@ -1,9 +1,29 @@
-# Ampere Server
+# Ampere Based Solution
 
 
 ---
 ## ADLink
 
+https://www.adlinktech.com/en/ampere-based-solution
+
+---
+### Ampere Altra Developer Platform
+* COM-HPC Server Type Size E Reference Development Platform based on Ampere® Altra® SoC
+* https://www.adlinktech.com/Products/Computer_on_Modules/COM-HPC-Server-Carrier-and-Starter-Kit/Ampere_Altra_Developer_Platform
+
+<img src="https://github.com/user-attachments/assets/d6a1f36a-b55a-435b-adf7-43111e452907" width=300>
+<img src="https://github.com/user-attachments/assets/8ecb4f10-c0ad-4cbb-9eb3-046c800ddd14" width=300>
+<img src="https://github.com/user-attachments/assets/e40fd775-b8f5-4eed-818f-05a74acfbb48" width=200>
+
+---
+#### Key Features
+* Ampere® Altra® SoC (Arm Neoverse N1 based architecture)
+* 32/64/96/128 Arm v8.2 64-bit cores up to 2.6GHz
+* 3 x16 slots and 4 x4 slots PCIe Gen4
+* IPMI BMC and dedicated Ethernet for remote management
+* Arm SystemReady SR compliance (finalizing approval), open source EDKII
+
+<img src="https://github.com/user-attachments/assets/9c9d0049-ae22-4fb4-8683-734ca50c4b7e" width=450>
 
 ---
 ## System76
