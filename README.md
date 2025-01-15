@@ -97,7 +97,7 @@ https://developer.arm.com/Processors/Neoverse%20CMN-700
 * The application supported includes networking infrastructure, storage, server, HPC, automotive, and industrial solutions.
 * The highly scalable mesh is optimized for Armv8.2 to Armv9.0 CPUs and can be customized across a wide range of performance, power, and area requirements.
 
-#### Resource 
+#### TRM
 * Arm Neoverse CMN-700 Technical Reference Manual Addendum
   * https://developer.arm.com/documentation/108055/0301/?lang=en
 
