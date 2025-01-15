@@ -25,9 +25,6 @@ https://www.arm.com/products/silicon-ip-cpu/neoverse
 <img src="https://github.com/user-attachments/assets/b34ff6a2-5bcf-4ad3-9f9a-249fa0215973" width=750>
 
 ---
-<img src="https://github.com/user-attachments/assets/a75ad4a2-84bb-4923-9d04-2314c9f4580d" width=750>
-
----
 <img src="https://github.com/user-attachments/assets/b25ba3bb-b8ed-49d8-b708-a2b43328521f" width=950>
 
 
