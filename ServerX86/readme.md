@@ -3,7 +3,7 @@
 ---
 ### Intel server
 
-* Intel 英特爾系列【mini烏鴉】i5-1240P十二核 迷你電腦 i5-1240P十二核/64G/2T SSD**$19,800** (**USD 638**)
+* Intel 英特爾系列【mini烏鴉】i5-1240P十二核 迷你電腦 i5-1240p/12-core/64G/2T SSD**$19,800** (**USD 638**)
   * https://24h.pchome.com.tw/prod/DSBC6A-A900HC25S
 * DELL 戴爾福利品 R720xd 機架式伺服器 E5-2670V2*2 /128G/3T SAS*4/H710P/750W*2, **$68,900** (**USD 2,222**)
   * https://24h.pchome.com.tw/prod/QAAU15-A900AKZ6T
