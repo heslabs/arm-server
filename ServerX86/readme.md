@@ -14,7 +14,12 @@
 <img src="https://github.com/user-attachments/assets/168de94f-deb7-4037-a1ec-da8e28c7600a" width=250>
 
 ---
+### Intel i5-1240P, 64G DDR4, 2TB SSD, $19,888 (USD 645)
 <img src="https://github.com/user-attachments/assets/0b07204c-d13f-4de1-967f-252c26b955ed" width=700>
+<img src="https://github.com/user-attachments/assets/17e5f83a-69e9-4050-b4cd-9fecc833050f" width=700>
+<img src="https://github.com/user-attachments/assets/15ddc7d5-7047-4066-a06c-47eaa8a5fce2" width=700>
+
+---
 <img src="https://github.com/user-attachments/assets/f40ee727-54c9-44c5-b240-f1bc0b1d8ee8" width=700>
 
 
