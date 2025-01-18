@@ -14,7 +14,7 @@
 <img src="https://github.com/user-attachments/assets/168de94f-deb7-4037-a1ec-da8e28c7600a" width=250>
 
 ---
-### Intel i5-1240P, 64G DDR4 ($3,138), 2TB SSD ($4,950), Total $19,888 (USD 645)
+### Intel i5-1240P (12C/16T), 64G DDR4 ($3,138), 2TB SSD ($4,950), Total $19,888 (USD 645)
 https://www.asus.com/tw/content/nuc-overview/
 <br/><br/>
 <img src="https://github.com/user-attachments/assets/0b07204c-d13f-4de1-967f-252c26b955ed" width=750>
