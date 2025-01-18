@@ -11,10 +11,10 @@
   * https://24h.pchome.com.tw/prod/DSAMAI-A900GFGHZ
 
 ---
-<img src="https://github.com/user-attachments/assets/168de94f-deb7-4037-a1ec-da8e28c7600a" width=450>
+<img src="https://github.com/user-attachments/assets/168de94f-deb7-4037-a1ec-da8e28c7600a" width=350>
 
 ---
-<img src="https://github.com/user-attachments/assets/3d1d1348-68df-4273-ac6b-0f3311e387f1" width=450>
+<img src="https://github.com/user-attachments/assets/3d1d1348-68df-4273-ac6b-0f3311e387f1" width=350>
 
 ---
-<img src="https://github.com/user-attachments/assets/ae7fa69b-c401-4e34-b04e-87e98875b411" width=450>
+<img src="https://github.com/user-attachments/assets/ae7fa69b-c401-4e34-b04e-87e98875b411" width=350>
