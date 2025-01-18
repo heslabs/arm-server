@@ -26,14 +26,10 @@ https://www.asus.com/tw/content/nuc-overview/
 ### Intel Core Ultra5 125H (14C/18T), 64G DDR4 ($3,138), 2TB SSD ($4,950), Total $25,988 (USD 840)
 <img src="https://github.com/user-attachments/assets/d60aa1cb-b10b-43be-b572-d3452b0c3f09" width=750>
 <br/><br/>
-<img src="https://github.com/user-attachments/assets/0b07204c-d13f-4de1-967f-252c26b955ed" width=750>
 <img src="https://github.com/user-attachments/assets/17e5f83a-69e9-4050-b4cd-9fecc833050f" width=750>
 <img src="https://github.com/user-attachments/assets/15ddc7d5-7047-4066-a06c-47eaa8a5fce2" width=750>
 
----
-https://www.asus.com/displays-desktops/nucs/nuc-mini-pcs/asus-nuc-14-pro/
-<img src="https://github.com/user-attachments/assets/f40ee727-54c9-44c5-b240-f1bc0b1d8ee8" width=750>
-
+ 
 
 ---
 <img src="https://github.com/user-attachments/assets/3d1d1348-68df-4273-ac6b-0f3311e387f1" width=350>
